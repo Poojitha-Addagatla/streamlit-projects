@@ -1,3 +1,16 @@
-# Streamlit Projects
+# Company Enrichment System
 
-This repository contains my Streamlit projects and learning journey.
+A Streamlit-based web application that extracts publicly available company information from websites.
+
+## Features
+- Website scraping
+- Email extraction
+- Phone number extraction
+- JSON output
+
+## Technologies Used
+- Python
+- Streamlit
+- BeautifulSoup
+- Requests
+- Regular Expressions (Regex)
